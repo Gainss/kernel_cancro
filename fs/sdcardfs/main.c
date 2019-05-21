@@ -34,7 +34,6 @@ enum {
 	Opt_reserved_mb,
 	Opt_gid_derivation,
 	Opt_default_normal,
-	Opt_nocache,
 	Opt_unshared_obb,
 	Opt_err,
 };
